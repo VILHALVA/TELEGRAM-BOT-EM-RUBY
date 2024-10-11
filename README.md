@@ -1,7 +1,7 @@
 # TELEGRAM BOT EM RUBY
 🤤ESTE BOT FOI DESENVOLVIDO EM RUBY UTILIZANDO A API DO TELEGRAM.
 
-<img src="FOTO.png" align="center" width="500"> <br>
+<img src="FOTO.jpg" align="center" width="500"> <br>
 
 ## DESCRIÇÃO:
 Este bot foi desenvolvido em RUBY utilizando a API do Telegram. Ele responde a vários comandos que você pode enviar diretamente para ele em uma conversa privada. É um bot básico, mas personalizável, que pode ser expandido para incluir mais funcionalidades.
